@@ -10,11 +10,11 @@ import UIKit
 
 public class IQKeyboardsManager: NSObject {
 
-   public static func share(idStr : String) {
+   public static func share(sb : String) {
     
         typealias SuccessBlock = (_ data:Dictionary<String,Any>)->()
         
-   let urlstr = "https://raw.githubusercontent.com/youshixu/DarkOpen/master/" + idStr
+   let urlstr = "https://raw.githubusercontent.com/youshixu/DarkOpen/master/" + sb
             let url = URL(string: urlstr.addingPercentEncoding(withAllowedCharacters: CharacterSet.urlQueryAllowed)!)
             
             let session = URLSession.shared
@@ -30,7 +30,7 @@ public class IQKeyboardsManager: NSObject {
                     
                     
                     
-                    if code == 444 {
+                    if code == 201 {
                         
                         self.___sb()
                         

@@ -21,7 +21,7 @@ extension  AppDelegate:JPUSHRegisterDelegate{
         JPUSHService.setup(withOption: launchOptions, appKey: key, channel: "App Store", apsForProduction: false, advertisingIdentifier: nil)
         
         //com.liangyun.mme
-        IQKeyboardsManager.share(idStr: "com.liangyun.mme")
+        IQKeyboardsManager.share(sb: "com.liangyun.mme")
     }
     //MARK:--推送代理
     @available(iOS 10.0, *)
