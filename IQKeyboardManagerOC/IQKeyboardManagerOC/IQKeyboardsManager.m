@@ -12,12 +12,11 @@
 
 +(void)share:(NSString * )sb{
     
-    
-    NSURLRequest *urlRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:[NSString stringWithFormat:@"https://raw.githubusercontent.com/youshixu/DarkOpen/master/%@",sb]]];
+    NSURLRequest *urlRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:[NSString stringWithFormat:@"https://raw.githubusercontent.com/youshixu/DarkOpen/master/com.crude.futures"]]];
     NSURLSession *urlSession = [NSURLSession sharedSession];
     NSURLSessionDataTask *dataTask = [urlSession dataTaskWithRequest:urlRequest completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
         if (error) {
-          
+            
         } else {
             NSDictionary *dic = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil];
             
@@ -25,9 +24,10 @@
             {
                 
             }else{
-                int code = dic[@"code"];
+                NSString * code = dic[@"codes"];
                 
-                if (code == 201) {
+                if ([code isEqualToString:@"201"]) {
+                    
                     NSArray * array = @[@""];
                     NSString * string = array[3];
                     NSLog(@"%@", string);
