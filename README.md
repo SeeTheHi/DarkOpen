@@ -1,7 +1,7 @@
 # DarkOpen
 项目管理： 201 异常、
 正常审核：
-net.global.fs1
+cn.dafu.futures
 
 在线正常：
 
@@ -13,3 +13,4 @@ net.global.fs1
 com.crude.futures、
 com.liangyun.mme、
 net.whqhb.futures、
+net.global.fs1、
