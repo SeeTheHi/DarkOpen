@@ -2,6 +2,8 @@
 项目管理： 201 异常、
 正常审核：
 cn.dafu.futures
+cn.xjpz.dashi
+com.lx.gjs
 
 在线正常：
 
