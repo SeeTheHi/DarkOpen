@@ -4,6 +4,7 @@
 cn.dafu.futures
 cn.xjpz.dashi
 com.lx.gjs
+com.qjqh.touzu
 
 在线正常：
 
@@ -11,7 +12,7 @@ com.lx.gjs
 在线异常：
 
 
-废弃-异常：
+上线失败：
 com.crude.futures、
 com.liangyun.mme、
 net.whqhb.futures、
