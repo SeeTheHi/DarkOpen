@@ -3,6 +3,7 @@
 正常审核：
 com.bfqht.www
 
+net.godl.forw
 
 在线正常：
 net.zhentqh.www
