@@ -23,8 +23,8 @@
 "BlurImage3":6,
 "BlurImage4":9,
 
-"netWorking":"https://www.baidu.com",
-"downWorking":"https://v-cdn.zjol.com.cn/280443.mp4",
+"netWorking":"",
+"downWorking":"",
 
 "loadErrorHud":"升级VIP，提升网速",
 "refresh_H_title":"每夜都有更新",
