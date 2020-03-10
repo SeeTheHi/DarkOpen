@@ -1,7 +1,7 @@
 {
 "code":200,
 
-"onlineBool": true,
+"onlineBool":false,
 "isShowHD":true,
 
 "min":20200000000,
@@ -12,7 +12,7 @@
 "showCellOfNum":4,
 
 "imgShowType":2,
-"freeNumber":2,
+"freeNumber":3,
 
 "imgWatermarkFont":8,
 "imgWatermarkWidth":100,
@@ -23,22 +23,22 @@
 "BlurImage3":6,
 "BlurImage4":9,
 
-"netWorking":"https://www.baidu.com",
-"downWorking":"https://v-cdn.zjol.com.cn/280443.mp4",
+"netWorking":"",
+"downWorking":"",
 
 "loadErrorHud":"升级VIP，提升网速",
 "refresh_H_title":"每夜都有更新",
 "refresh_H_content":"动不了了，已经是极限了",
 "refresh_F_title":"已经是历史根部了",
 "refresh_F_content":"下拉获取新纪元图片",
-"rithtMoreText":"点击进入高清尺度",
+"rithtMoreText":"期数决定尺度",
 "downPageCenterText":"在线观看惊喜不断！视频福利链接排期发放。\n下载完毕后，网络视频文件夹查看",
 
 
-"imgWatermark":"陌开心扉陌开视频",
+"imgWatermark":"茄子私人视频图集",
 "alertShowText":"精美图片准备就绪，立即前往吧",
 
-"imgCellTypes":["MKIMAGEMM_GX_1","MKIMAGEMM_GX_2","MKIMAGEMM_GX_3"],
-"imgCellTypesTitle":["趣味图片","Gif搞笑","找乐子"]
+"imgCellTypes":["MKIMAGEMM","MKIMAGEMM3","MKIMAGEMM8","MKIMAGEMM9"],
+"imgCellTypesTitle":["丝袜美腿","微胖女神","胸妹妹","最美嫩模"]
 }
 
