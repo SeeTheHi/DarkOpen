@@ -40,6 +40,7 @@
 
 "imgCellTypes":["MKIMAGEMM_GX_1","MM_gifGroup","MKIMAGEMM_GX_2","MKIMAGEMM_GX_3"],
 "imgCellTypesTitle":["趣味图片","动图美女","Gif搞笑","找乐子"],
-"dataTypesArray":["","","","","",""]
+"dataTypesArray":["","","","","",""],
+"imgShowTypeArr":["2","1","2","1","",""]
 }
 
