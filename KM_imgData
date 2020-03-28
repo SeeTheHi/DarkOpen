@@ -1,7 +1,7 @@
 {
 "code":200,
 
-"onlineBool":false,
+"onlineBool": true,
 "isShowHD":true,
 
 "min":20200000000,
@@ -31,16 +31,16 @@
 "refresh_H_content":"动不了了，已经是极限了",
 "refresh_F_title":"已经是历史根部了",
 "refresh_F_content":"下拉获取新纪元图片",
-"rithtMoreText":"点击进入高清尺度",
+"rithtMoreText":"期数值决定高清尺度",
 "downPageCenterText":"在线观看惊喜不断！视频福利链接排期发放。\n下载完毕后，网络视频文件夹查看",
 
 
 "imgWatermark":"卡曼私人视频图集",
-"alertShowText":"精美图片准备就绪，立即前往吧",
+"alertShowText":"夜览美图已开启，立即前往吧",
 
 "imgCellTypes":["MKIMAGEMM","MM_gifGroup","MKIMAGEMM3","MKIMAGEMM8","MKIMAGEMM9"],
-"imgCellTypesTitle":["丝袜美腿","动图专属","微胖女神","胸妹妹","最美嫩模"],
+"imgCellTypesTitle":["丝袜美腿","诱惑动图","微胖女神","胸妹妹","最美嫩模"],
 "dataTypesArray":["","","","","",""],
-"imgShowTypeArr":["2","1","2","1","",""]
+"imgShowTypeArr":["2","1","2","1","2","2"]
 }
 
