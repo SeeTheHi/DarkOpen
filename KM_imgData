@@ -38,9 +38,9 @@
 "imgWatermark":"卡曼私人视频图集",
 "alertShowText":"夜览美图已开启，立即前往吧",
 
-"imgCellTypes":["MKIMAGEMM","MM_gifGroup","MKIMAGEMM3","MKIMAGEMM8","MKIMAGEMM9"],
-"imgCellTypesTitle":["丝袜美腿","诱惑动图","微胖女神","胸妹妹","最美嫩模"],
+"imgCellTypes":["MM_gifGroup","MKIMAGEMM","MKIMAGEMM3","MKIMAGEMM8","MKIMAGEMM9"],
+"imgCellTypesTitle":["诱惑动图","丝袜美腿","微胖女神","胸妹妹","最美嫩模"],
 "dataTypesArray":["jpg","jpg","jpg","jpg","jpg","jpg"],
-"imgShowTypeArr":["2","1","2","1","2","2"]
+"imgShowTypeArr":["1","2","2","1","2","2"]
 }
 
