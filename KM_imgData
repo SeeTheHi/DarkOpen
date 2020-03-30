@@ -23,7 +23,7 @@
 "BlurImage3":6,
 "BlurImage4":9,
 
-"netWorking":"http://magnet.chongbuluo.com",
+"netWorking":"",
 "downWorking":"",
 
 "loadErrorHud":"升级VIP，提高网速",
@@ -31,16 +31,16 @@
 "refresh_H_content":"动不了了，已经是极限了",
 "refresh_F_title":"已经是历史根部了",
 "refresh_F_content":"下拉获取新纪元图片",
-"rithtMoreText":"购买VIP，获取视频资源",
+"rithtMoreText":"购买VIP更多资源",
 "downPageCenterText":"在线观看惊喜不断！视频福利链接排期发放。\n下载完毕后，网络视频文件夹查看",
 
 
 "imgWatermark":"卡曼私人视频图集",
 "alertShowText":"夜览美图已开启，立即前往吧",
 
-"imgCellTypes":["MM_gifGroup","MKIMAGEMM","MKIMAGEMM3","MKIMAGEMM8","MKIMAGEMM9"],
-"imgCellTypesTitle":["诱惑动图","丝袜美腿","微胖女神","胸妹妹","最美嫩模"],
+"imgCellTypes":["MM_gifGroup","MKIMAGEMM_GX_2","MKIMAGEMM3"],
+"imgCellTypesTitle":["诱惑动图","趣味动图","微胖女神"],
 "dataTypesArray":["jpg","jpg","jpg","jpg","jpg","jpg"],
-"imgShowTypeArr":["1","2","2","1","2","2"]
+"imgShowTypeArr":["1","1","2","1","2","2"]
 }
 
